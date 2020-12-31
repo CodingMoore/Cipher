@@ -5,9 +5,9 @@ Initialization Date: 2020-10-19
 
 ## Project Description
 ### _Practice Exercise:_<br>
-This project is an exercise in adding jQuery functionality to a webpage.  We are linking our jQuery file to our HTML file, and using jQuery to emplement event listeners.
+This project is an exercise in using HTML, JavaScript, jQuery, and custom functions.
 ## Authors and Contributors
-Authored by: Randel Moore
+Authored by: Randel Moore, Svea Wade.
 
 ## Contact
 RMGit.it@gmail.com
